@@ -23,6 +23,26 @@ p {
     font-size: 20px
 }
 
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+.imagembeneficios {
+    width: 50%;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 em strong {
     color: #FF0000;
 }
