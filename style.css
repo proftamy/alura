@@ -1,7 +1,12 @@
 body {
-    background: #CCCCCC
+
 }
 
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+
+}
 #banner {
     width: 100%;
 }
